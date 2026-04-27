@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /.git
+Disallow: /.github
+
+Sitemap: https://chowdhurymultitrades.com/sitemap.xml
